@@ -1,0 +1,4 @@
+# Le moteur principal utilise uniquement Python standard.
+
+# Pour lancer les tests :
+pytest
